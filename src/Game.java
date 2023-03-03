@@ -105,5 +105,5 @@ public class Game {
         }
 
    }
-
+//kommentar for at pushe
 }
